@@ -33,8 +33,6 @@ Clique para abrir diretamente no navegador:
 
 ```pip install rasa```
 
-```bash```
-
 ```rasa init```
 
 ```*enter*```
@@ -46,3 +44,11 @@ Clique para abrir diretamente no navegador:
 ```tar -czvf projetorasa.tar.gz```
 
 2. *salvar o arquivo compactado que foi criado, descompactar e subir no repositório do GitHub*
+
+##  Instalando o Rasa
+
+```pip install rasa```
+
+```rasa train```
+
+
