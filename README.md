@@ -49,6 +49,9 @@ Clique para abrir diretamente no navegador:
 
 ```pip install rasa```
 
-```rasa train```
+```rasa train``` Cria o modelo.
 
 
+##  Usando o Rasa
+
+`/stop`
