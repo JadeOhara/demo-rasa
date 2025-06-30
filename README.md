@@ -3,9 +3,10 @@
 # 🤖 Rasa Bot + MyBinder Setup
 
 Este repositório demonstra como executar um bot criado com o [Rasa](https://rasa.com/) diretamente no navegador usando o [MyBinder.org](https://mybinder.org/), sem necessidade de instalação local. Ideal para apresentações, testes rápidos e compartilhamento de projetos.
+E salva-lo em seu GitHub para manter a memória das alterações realizadas.
 
 ---
-## 📦 Requisitos do projeto
+## Requisitos do projeto
 
 Para funcionar no [Binder](https://mybinder.org), o projeto precisa de:
 
@@ -16,7 +17,7 @@ Para funcionar no [Binder](https://mybinder.org), o projeto precisa de:
 
 ---
 
-## 🚀 Rodando com Binder
+## Rodando com Binder
 
 Clique para abrir diretamente no navegador:
 
@@ -24,6 +25,19 @@ Clique para abrir diretamente no navegador:
 
 > **Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pela URL real do seu GitHub do repositório criado para o rasa.**
 
-> Copie o link do seu Binder para acessar posteriormente: [Esse Binder]([[https](https://mybinder.org/v2/gh/JadeOhara/demo-rasa/HEAD)://mybinder.org](https://mybinder.org/v2/gh/JadeOhara/demo-rasa/HEAD))
+> Copie o link do seu Binder para acessar posteriormente: [Esse Binder](https://mybinder.org/v2/gh/JadeOhara/demo-rasa/HEAD)
 
 > Execute
+
+##  Instalando o Rasa
+
+1. Abra o terminal e use os comandos abaixo:
+
+> pip install rasa
+> rasa init
+> *enter*
+> Y
+> N
+> tar -czvf projetorasa.tar.gz *
+
+2. *salvar o arquivo compactado que foi criado, descompactar e subir no repositório do GitHub*
