@@ -21,7 +21,7 @@ Para funcionar no [Binder](https://mybinder.org), o projeto precisa de:
 
 Clique para abrir diretamente no navegador:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEU_USUARIO/SEU_REPOSITORIO/HEAD?urlpath=lab/tree/start_rasa.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JadeOhara/demo-rasa/HEAD)
 
 > **Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pela URL real do seu GitHub do repositório criado para o Rasa.**
 
