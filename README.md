@@ -33,11 +33,12 @@ Clique para abrir diretamente no navegador:
 
 1. Abra o terminal e use os comandos abaixo:
 
-> pip install rasa
-> rasa init
-> *enter*
-> Y
-> N
-> tar -czvf projetorasa.tar.gz *
+```pip install rasa```
+```bash```
+```rasa init```
+```*enter*```
+```Y```
+```N```
+```tar -czvf projetorasa.tar.gz```
 
 2. *salvar o arquivo compactado que foi criado, descompactar e subir no repositório do GitHub*
