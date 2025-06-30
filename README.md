@@ -51,6 +51,7 @@ Clique para abrir diretamente no navegador:
 
 ```rasa train``` Cria o modelo.
 
+```rasa shell``` 
 
 ##  Usando o Rasa
 
